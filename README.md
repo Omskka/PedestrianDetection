@@ -2,5 +2,5 @@ This project utilizes OpenCV to create a video player application. It performs r
 <br>
 
 ![img1](https://i.imgur.com/C8liBAC_d.jpg?maxwidth=520&shape=thumb&fidelity=high)
-<br>
+
 ![img2](https://i.imgur.com/ak7mXBC_d.jpg?maxwidth=520&shape=thumb&fidelity=high)
